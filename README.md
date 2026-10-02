@@ -1,5 +1,7 @@
 <div align="center">
+
 [![Email](https://img.shields.io/badge/Email-291847920%40qq.com-D14D36?style=for-the-badge&logo=gmail&logoColor=white)](mailto:291847920@qq.com)
+
 </div>
 
 ---
@@ -16,18 +18,4 @@
 <div align="center">
   <img height="165px" src="https://streak-stats.demolab.com/?user=ALECX123&theme=gotham&hide_border=true" alt="ALECX123's streak" />
   <img height="165px" src="https://github-profile-trophy.vercel.app/?username=ALECX123&theme=gotham&no-frame=true&no-bg=true&column=7" alt="ALECX123's trophies" />
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://github-snake-graph.vercel.app/github-snake/ALECX123" alt="snake" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ALECX123&style=for-the-badge&color=gotham" alt="profile views" />
 </div>
