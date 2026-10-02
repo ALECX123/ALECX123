@@ -1,7 +1,5 @@
 <div align="center">
-
 [![Email](https://img.shields.io/badge/Email-291847920%40qq.com-D14D36?style=for-the-badge&logo=gmail&logoColor=white)](mailto:291847920@qq.com)
-
 </div>
 
 ---
