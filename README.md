@@ -17,5 +17,4 @@
 
 <div align="center">
   <img height="165px" src="https://streak-stats.demolab.com/?user=ALECX123&theme=gotham&hide_border=true" alt="ALECX123's streak" />
-  <img height="165px" src="https://github-profile-trophy.vercel.app/?username=ALECX123&theme=gotham&no-frame=true&no-bg=true&column=7" alt="ALECX123's trophies" />
 </div>
